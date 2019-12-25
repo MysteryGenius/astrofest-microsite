@@ -1,0 +1,36 @@
+{
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "vuepress": "^1.2.0",
+    "webpack": "^4.41.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.3",
+    "tailwindcss": "^1.1.4",
+    "vue-command": "^7.0.7",
+    "vue-konami-code": "^1.0.0"
+  },
+  "name": "astrofest-microsite",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MysteryGenius/astrofest-microsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MysteryGenius/astrofest-microsite/issues"
+  },
+  "homepage": "https://github.com/MysteryGenius/astrofest-microsite#readme",
+  "description": ""
+}

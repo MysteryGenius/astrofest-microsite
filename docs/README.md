@@ -15,5 +15,5 @@ hero_text: "<strong>Solar Eclipse</strong>"
 
 <article class="bg-gray-400 rounded m-12 p-6">
     <h2 class="text-2xl text-center m-6 font-bold tracking-wider">Livestream</h2>
-    <iframe class="mx-auto" width="560" height="315" src="https://www.youtube.com/embed/4foL-OEnLpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="mx-auto" width="100%" height="auto" src="https://www.youtube.com/embed/4foL-OEnLpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </article>
